@@ -67,7 +67,7 @@ public abstract class MissionBase
         return null;
     }
 }
-
+//Basically creates a template for each of the missions the player can potentially get during gameplay
 public class SingleRunMission : MissionBase
 {
     public override void Created()

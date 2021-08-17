@@ -105,11 +105,17 @@ public class PlayerData
 
     // Mission management
 
+    //will try to edit the number of missions by simply changing this value from 2 to 4
     // Will add missions until we reach 2 missions.
+    //for some reason the missions count reaches only 3 if you have it as 4, this is possibly because of a check in place
+    //to allow for no more then 3 missions at a times
+    //The MissionUI.CS script was hard coded to only visually allow 3 missions, simply changed value from 3 to 4
     public void CheckMissionsCount()
     {
-        while (missions.Count < 2)
+        while (missions.Count < 4){ 
+            Debug.Log(missions.Count);
             AddMission();
+        }
     }
 
     public void AddMission()

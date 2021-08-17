@@ -11,10 +11,13 @@ public class MissionUI : MonoBehaviour
     {
         gameObject.SetActive(true);
 
+        //clears the children of the containing object
         foreach (Transform t in missionPlace)
             Destroy(t.gameObject);
 
-        for(int i = 0; i < 3; ++i)
+        //The mission count
+        //lets change this to 4 shall we
+        for(int i = 0; i < 4; ++i)
         {
             if (PlayerData.instance.missions.Count > i)
             {
