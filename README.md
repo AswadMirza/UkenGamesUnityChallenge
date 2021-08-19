@@ -4,10 +4,10 @@ Unity Challenge for Uken Games
 ###Unity Challenge
 
 
-1.On the GITHUB page for the project : https://github.com/AswadMirza/UkenGamesUnityChallenge
-2.Click the green code tab and click "Download Zip"
-3.Extract the downloaded zip folder to your desired location
-4.Open Unity Hub click Add, navigate to where you extracted the folder
+On the GITHUB page for the project : https://github.com/AswadMirza/UkenGamesUnityChallenge
+Click the green code tab and click "Download Zip"
+Extract the downloaded zip folder to your desired location
+Open Unity Hub click Add, navigate to where you extracted the folder
 Double click on the extracted folder
 Click on the folder 'UkenUnityChallenge', and click "select folder" on the navigation explorer.
 On Unity Hub you will see the project added.
