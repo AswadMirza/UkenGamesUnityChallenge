@@ -19,6 +19,14 @@ These steps are if you do not have Unity 2019.2.17f1 installed{
 	wait for installation to finish
 }
 
+Click on 'UkenUnityChallenge' in Unity Hub to launch it.
+Wait for it to open
+Click on the 'Project' tab on the bottom to show the file explorer for the project
+Click on the 'Scenes' folder and double click on the scene that says 'Start'
+Once you are on the 'Start' scene hit the play button on the top to play the game in the unity editor.
+Ensure the aspect ration is set to 'Standalone' to have full vision of the game (can find this next to the display tab)
+When you play the game you will notice 5 hearts during the game, and 4 active missions.
+
 
 ### Test Cases Challenge
 The pdf containing test cases for the gameplay loop of TrashDash can be found directly under the main project folder
@@ -30,4 +38,7 @@ and is in the same folder as this README file.
 
         folder                             file 
 \UkenGamesUnityChallenge-main\Aswad Mirza Test Cases for Trash Dash.pdf
+
+
+## By Aswad Mirza
 
