@@ -33,7 +33,7 @@ The pdf containing test cases for the gameplay loop of TrashDash can be found di
 Under \UkenGamesUnityChallenge-main\
 
 The file is named 'Aswad Mirza Test Cases for Trash Dash.pdf'
-and is in the same folder as this README file.
+and is in the same folder as this README file in the project.
 
 
         folder                             file 
